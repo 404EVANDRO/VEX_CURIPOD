@@ -1,8 +1,8 @@
-🧠 Curipod.ai: O que é, como funciona e tutorial de uso
+## 🧠 Curipod.ai: O que é, como funciona e tutorial de uso
 📌 O que é o Curipod?
 O Curipod é uma plataforma educacional inovadora que utiliza inteligência artificial (IA) para ajudar professores a criarem apresentações interativas de maneira rápida e eficiente. Com foco no engajamento dos alunos, o Curipod permite a criação de lições que incluem quizzes, enquetes, perguntas abertas e outros recursos dinâmicos, tornando as aulas mais envolventes e interativas. A ferramenta é projetada para ser usada em diferentes formatos de ensino, como presencial, remoto ou híbrido, e oferece recursos avançados como geração automática de conteúdo, personalização e análise de desempenho dos alunos.
 
-🚀 Funcionalidades principais
+## 🚀 Funcionalidades principais
 
 ✅ Geração automática de slides: Com base em temas ou objetivos inseridos, a IA do Curipod cria slides prontos para uso, economizando tempo na preparação das aulas.
 📊 Atividades interativas: Inclui quizzes, enquetes, discussões, nuvens de palavras e mais para aumentar a participação dos alunos.
@@ -17,7 +17,7 @@ O Curipod é uma plataforma educacional inovadora que utiliza inteligência arti
 📊 Relatórios detalhados: Após a aula, os professores podem analisar o engajamento e o desempenho dos alunos para identificar áreas de melhoria.
 
 
-⚙️ Como funciona o Curipod?
+## ⚙️ Como funciona o Curipod?
 
 Inserção do tema ou objetivo: O usuário fornece um tema ou objetivo para a aula (ex.: "Sistema Solar", "Educação Financeira").
 Geração de apresentação interativa: A IA do Curipod cria automaticamente uma apresentação com slides e atividades interativas baseadas no tema inserido.
@@ -37,54 +37,54 @@ Análise de desempenho: Após a aula, os relatórios ajudam a identificar o enga
 🌐 Integração fácil: Funciona bem com outras ferramentas educacionais, como Google Classroom.
 
 
-🧪 Tutorial: Como usar o Curipod passo a passo
+## 🧪 Tutorial: Como usar o Curipod passo a passo
 
-Acesse o site: Visite Curipod e faça o login ou crie uma conta gratuita.
+# Acesse o site: Visite Curipod e faça o login ou crie uma conta gratuita.
 Explore a interface:
 Após o login, você verá opções como "Create lesson", "Discover", e "My lessons".
 "Create lesson" permite iniciar uma nova lição do zero ou usar o "Magic lesson" para geração automática.
 "Discover" contém lições pré-criadas que você pode usar ou adaptar.
 
 
-Crie uma lição:
+# Crie uma lição:
 Clique em "Create lesson" e escolha entre "Build from scratch" (criar do zero) ou "Use AI to generate" (gerar com IA).
 Se escolher "Use AI to generate", insira o tema da aula e os objetivos de aprendizado (ex.: "História da Roma Antiga", "Fotossíntese").
 A IA gerará automaticamente uma sequência de slides com atividades interativas.
 
 
-Personalize a lição:
+# Personalize a lição:
 Cada slide pode ser editado: adicione texto, imagens, vídeos, ou altere as atividades interativas.
 Você pode inserir diferentes tipos de atividades, como quizzes, enquetes, perguntas abertas, nuvens de palavras, etc.
 Use a barra lateral para navegar entre os slides e adicionar novos elementos.
 Utilize a função "Suggest Activity" para obter sugestões de atividades baseadas no conteúdo do slide.
 
 
-Importe apresentações existentes:
+# Importe apresentações existentes:
 Se você já tem uma apresentação em PDF, PPT, ou outro formato, clique em "Upload" e importe o arquivo.
 A plataforma converterá a apresentação em slides interativos automaticamente.
 
 
-Teste a lição:
+# Teste a lição:
 Antes de compartilhar, é recomendável testar a lição para garantir que tudo funcione corretamente.
 Você pode simular as respostas dos alunos para ver como as atividades se comportam.
 
 
-Compartilhe com os alunos:
+# Compartilhe com os alunos:
 Clique em "Share" para gerar um link ou código de acesso.
 Os alunos podem se conectar usando seus dispositivos pessoais (computadores, tablets, smartphones).
 
 
-Monitore a interação:
+# Monitore a interação:
 Durante a aula, você pode ver as respostas dos alunos em tempo real.
 Use essa informação para ajustar o ritmo da aula ou abordar dúvidas imediatamente.
 
 
-Analise o desempenho:
+# Analise o desempenho:
 Após a aula, acesse os relatórios que mostram o engajamento e o desempenho dos alunos.
 Isso ajuda a identificar áreas que precisam de mais atenção ou reforço.
 
 
-Explore recursos avançados:
+# Explore recursos avançados:
 Utilize a função de tradução para criar lições em diferentes idiomas.
 Ative a opção de participação anônima para incentivar alunos tímidos a participarem.
 Integre o Curipod com outras plataformas educacionais, como Google Classroom, para uma experiência mais completa.
@@ -92,7 +92,7 @@ Integre o Curipod com outras plataformas educacionais, como Google Classroom, pa
 
 
 
-💡 Dicas de uso
+## 💡 Dicas de uso
 
 Planeje antecipadamente: Embora o Curipod seja rápido, é bom planejar o tema e os objetivos da aula antes de começar.
 Experimente diferentes atividades: Teste vários tipos de atividades interativas (quizzes, enquetes, discussões) para ver quais engajam mais seus alunos.
@@ -102,7 +102,7 @@ Encourage colaboração: Use as atividades de discussão para fomentar o trabalh
 Explore a biblioteca "Discover": Encontre lições pré-criadas que podem ser adaptadas às suas necessidades.
 
 
-📚 Exemplos práticos
+## 📚 Exemplos práticos
 
 
 
@@ -128,7 +128,7 @@ Fixar operações e lógica matemática
 
 
 
-✅ Conclusão
+## ✅ Conclusão
 O Curipod.ai é uma ferramenta revolucionária que combina IA com educação, oferecendo aos professores uma maneira prática e eficiente de criar aulas interativas e envolventes. Com suas funcionalidades avançadas e interface amigável, o Curipod está transformando a forma como os educadores planejam e entregam suas lições.
 
 “Ensinar com IA não é o futuro – é o agora.”
